@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/beetroot_seeds"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "item/beetroot_seeds"},
+		{"predicate": {"custom_model_data":1}, "model": "item/other/other_grenade1"},
+		{"predicate": {"custom_model_data":2}, "model": "item/other/other_grenade2"},
+		{"predicate": {"custom_model_data":3}, "model": "item/other/other_molotov"},
+		{"predicate": {"custom_model_data":4}, "model": "item/other/other_ammo1"},
+		{"predicate": {"custom_model_data":5}, "model": "item/other/other_ammo2"},
+		{"predicate": {"custom_model_data":6}, "model": "item/other/other_ammo3"},
+		{"predicate": {"custom_model_data":7}, "model": "item/other/other_ammo4"}
+	]
+}

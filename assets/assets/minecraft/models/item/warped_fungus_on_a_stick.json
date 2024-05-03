@@ -1,0 +1,33 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/warped_fungus_on_a_stick"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":0}, "model": "item/warped_fungus_on_a_stick"},
+		{"predicate": {"custom_model_data":1}, "model": "item/warped_fungus_on_a_stick"},
+		{"predicate": {"custom_model_data":2}, "model": "item/other/wep_knife1"},
+		{"predicate": {"custom_model_data":3}, "model": "item/other/wep_knife2"},
+		{"predicate": {"custom_model_data":4}, "model": "item/guns/vz83"},
+		{"predicate": {"custom_model_data":5}, "model": "item/guns/rpg7"},
+		{"predicate": {"custom_model_data":6}, "model": "item/guns/m82a1"},
+		{"predicate": {"custom_model_data":7}, "model": "item/guns/p90"},
+		{"predicate": {"custom_model_data":8}, "model": "item/guns/an94"},
+		{"predicate": {"custom_model_data":9}, "model": "item/guns/deserteagle"},
+		{"predicate": {"custom_model_data":10}, "model": "item/guns/m16a1"},
+		{"predicate": {"custom_model_data":11}, "model": "item/guns/mossberg_500"},
+		{"predicate": {"custom_model_data":12}, "model": "item/guns/m4a1"},
+		{"predicate": {"custom_model_data":13}, "model": "item/guns/m416"},
+		{"predicate": {"custom_model_data":14}, "model": "item/guns/awm"},
+		{"predicate": {"custom_model_data":15}, "model": "item/guns/msr"},
+		{"predicate": {"custom_model_data":16}, "model": "item/guns/mp5"},
+		{"predicate": {"custom_model_data":17}, "model": "item/guns/svd"},
+		{"predicate": {"custom_model_data":18}, "model": "item/guns/ak47"},
+		{"predicate": {"custom_model_data":19}, "model": "item/guns/aa12"},
+		{"predicate": {"custom_model_data":20}, "model": "item/guns/glock17"},
+		{"predicate": {"custom_model_data":21}, "model": "item/guns/dsr1"},
+		{"predicate": {"custom_model_data":22}, "model": "item/guns/m19"},
+		{"predicate": {"custom_model_data":23}, "model": "item/guns/mp7"}
+	]
+}

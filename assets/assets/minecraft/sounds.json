@@ -1,0 +1,201 @@
+{
+  "ushoot.":{"category":"master","sounds":["shoot_renew/"]},
+  "ureload.":{"category":"master","sounds":["reload_renew/"]},
+
+  "ushoot.ak47":{"category":"master","sounds":["shoot_renew/ak47"]},
+  "ureload.ak47rel1":{"category":"master","sounds":["reload_renew/ak47rel1"]},
+  "ureload.ak47rel2":{"category":"master","sounds":["reload_renew/ak47rel2"]},
+
+  "gunfx.cartridge01": {
+    "category": "master",
+	"sounds": [ "gunfx/cartridge1" ]
+  },
+  "gunfx.no_ammo_rf": {
+    "category": "master",
+	"sounds": [ "gunfx/no_ammo_rf" ]
+  },
+  "gunfx.draw_other": {
+    "category": "master",
+	"sounds": [ "gunfx/draw_other" ]
+  },
+  "gunfx.draw_pistol": {
+    "category": "master",
+	"sounds": [ "gunfx/draw_pistol" ]
+  },
+  "shooting.fire_ak_762x39_rf": {
+    "category": "master",
+	"sounds": [ "shoot_caliber/fire_ak_762x39_rf" ]
+  },
+  "shooting.fire_ar15_556x45_rf": {
+    "category": "master",
+	"sounds": [ "shoot_caliber/fire_ar15_556x45_rf" ]
+  },
+  "shooting.fire_m9_9x19_hg": {
+    "category": "master",
+	"sounds": [ "shoot_caliber/fire_m9_9x19_hg" ]
+  },
+  "shooting.fire_m14_762x51_br": {
+    "category": "master",
+	"sounds": [ "shoot_caliber/fire_m14_762x51_br" ]
+  },
+  "shooting.fire_m1911a1_45acp_hg": {
+    "category": "master",
+	"sounds": [ "shoot_caliber/fire_m1911a1_45acp_hg" ]
+  },
+  "reloading.bolt_open": {
+    "category": "master",
+	"sounds": [ "reloading/bolt_action_open" ]
+  },
+  "reloading.bolt_close_load_mag": {
+    "category": "master",
+	"sounds": [ "reloading/bolt_close_load_mag" ]
+  },
+  "reloading.reload_s_nomal": {
+    "category": "master",
+	"sounds": [ "reloading/reload_s_n" ]
+  },
+  "reloading.reload_s_sg": {
+    "category": "master",
+	"sounds": [ "reloading/reload_s_sg" ]
+  },
+  "reloading.eject_mag_ak": {
+    "category": "master",
+	"sounds": [ "reloading/eject_mag_ak" ]
+  },
+  "reloading.insert_mag_ak": {
+    "category": "master",
+	"sounds": [ "reloading/insert_mag_ak" ]
+  },
+  "reloading.charging_ak": {
+    "category": "master",
+	"sounds": [ "reloading/charging_ak" ]
+  },
+  "reloading.eject_mag_ar15": {
+    "category": "master",
+	"sounds": [ "reloading/eject_mag_ar15" ]
+  },
+  "reloading.insert_mag_ar15": {
+    "category": "master",
+	"sounds": [ "reloading/insert_mag_ar15" ]
+  },
+  "reloading.bolt_release_ar15": {
+    "category": "master",
+	"sounds": [ "reloading/bolt_release_ar15" ]
+  },
+  "reloading.charging_ar15": {
+    "category": "master",
+	"sounds": [ "reloading/charging_ar15" ]
+  },
+  "reloading.eject_mag_m14": {
+    "category": "master",
+	"sounds": [ "reloading/eject_mag_m14" ]
+  },
+  "reloading.insert_mag_m14": {
+    "category": "master",
+	"sounds": [ "reloading/insert_mag_m14" ]
+  },
+  "reloading.charging_m14": {
+    "category": "master",
+	"sounds": [ "reloading/charging_m14" ]
+  },
+  "reloading.eject_mag_m1911a1": {
+    "category": "master",
+	"sounds": [ "reloading/eject_mag_m1911a1" ]
+  },
+  "reloading.insert_mag_m1911a1": {
+    "category": "master",
+	"sounds": [ "reloading/insert_mag_m1911a1" ]
+  },
+  "reloading.charging_m1911a1": {
+    "category": "master",
+	"sounds": [ "reloading/charging_m1911a1" ]
+  },
+  "reload.start.light": {
+    "category": "master",
+	"sounds": [ "reload/eject_mag_light" ]
+  },
+  "reload.end.light": {
+    "category": "master",
+	"sounds": [ "reload/insert_mag_light" ]
+  },
+  "reload.start.normal": {
+    "category": "master",
+	"sounds": [ "reload/eject_mag_normal" ]
+  },
+  "reload.end.normal": {
+    "category": "master",
+	"sounds": [ "reload/insert_mag_normal" ]
+  },
+  "reload.start.heavy": {
+    "category": "master",
+	"sounds": [ "reload/eject_mag_minigun" ]
+  },
+  "reload.end.heavy": {
+    "category": "master",
+	"sounds": [ "reload/insert_mag_minigun" ]
+  },
+  "reload.start.shotgun": {
+    "category": "master",
+	"sounds": [ "reload/insert_shotgun_shells" ]
+  },
+  "scope.in": {
+    "category": "master",
+	"sounds": [ "scope/start_scope" ]
+  },
+  "scope.out": {
+    "category": "master",
+	"sounds": [ "scope/end_scope" ]
+  },
+  "shoot.50gs": {
+    "category": "master",
+	"sounds": [ "shoot/50gs" ]
+  },
+  "shoot.357magnum": {
+    "category": "master",
+	"sounds": [ "shoot/357magnum" ]
+  },
+  "shoot.ak47": {
+    "category": "master",
+	"sounds": [ "shoot/ak47" ]
+  },
+  "shoot.aug": {
+    "category": "master",
+	"sounds": [ "shoot/aug" ]
+  },
+  "shoot.ax50": {
+    "category": "master",
+	"sounds": [ "shoot/ax50" ]
+  },
+  "shoot.fnfal": {
+    "category": "master",
+	"sounds": [ "shoot/fnfal" ]
+  },
+  "shoot.fr556": {
+    "category": "master",
+	"sounds": [ "shoot/fr556" ]
+  },
+  "shoot.kar98k": {
+    "category": "master",
+	"sounds": [ "shoot/kar98k" ]
+  },
+  "shoot.m4a1": {
+    "category": "master",
+	"sounds": [ "shoot/m4a1" ]
+  },
+  "shoot.mg34": {
+    "category": "master",
+	"sounds": [ "shoot/mg34" ]
+  },
+  "shoot.origin12": {
+    "category": "master",
+	"sounds": [ "shoot/origin12" ]
+  },
+  "shoot.r90": {
+    "category": "master",
+	"sounds": [ "shoot/r90shotgun" ]
+  },
+  "shoot.rpg7": {
+    "category": "master",
+	"sounds": [ "shoot/rpg7" ]
+  }
+}
