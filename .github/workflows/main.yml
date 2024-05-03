@@ -23,7 +23,7 @@ jobs:
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: ${{ env.RELEASE_FILENAME }}
+        filename: 'rawdata'
         exclusions: '*.git*'
       
     - name: Create Release
@@ -36,4 +36,4 @@ jobs:
         name: ${{ env.CURRENT_DATETIME }}
         draft: false
         prerelease: false
-        files: ${{ env.RELEASE_FILENAME }}
+        files: 'rawdata'
