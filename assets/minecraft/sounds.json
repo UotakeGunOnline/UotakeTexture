@@ -1,18 +1,72 @@
 {
   "ushoot.":{"category":"master","sounds":["shoot_renew/"]},
+  "ushootm.":{"category":"master","sounds":["shoot_renew_m/"]},
   "ureload.":{"category":"master","sounds":["reload_renew/"]},
 
   "ushoot.ak47":{"category":"master","sounds":["shoot_renew/ak47"]},
+  "ushootm.ak47":{"category":"master","sounds":["shoot_renew_m/ak47"]},
   "ureload.ak47rel1":{"category":"master","sounds":["reload_renew/ak47rel1"]},
   "ureload.ak47rel2":{"category":"master","sounds":["reload_renew/ak47rel2"]},
   "ureload.ak47rel3":{"category":"master","sounds":["reload_renew/ak47rel3"]},
   "ureload.ak47rel4":{"category":"master","sounds":["reload_renew/ak47rel4"]},
 
   "ushoot.m16":{"category":"master","sounds":["shoot_renew/m16"]},
+  "ushootm.m16":{"category":"master","sounds":["shoot_renew_m/m16"]},
   "ureload.m16rel1":{"category":"master","sounds":["reload_renew/m16rel1"]},
   "ureload.m16rel2":{"category":"master","sounds":["reload_renew/m16rel2"]},
   "ureload.m16rel3":{"category":"master","sounds":["reload_renew/m16rel3"]},
-  
+
+  "ushoot.p90":{"category":"master","sounds":["shoot_renew/p90"]},
+  "ushootm.p90":{"category":"master","sounds":["shoot_renew_m/p90"]},
+  "ureload.p90rel1":{"category":"master","sounds":["reload_renew/p90rel1"]},
+  "ureload.p90rel2":{"category":"master","sounds":["reload_renew/p90rel2"]},
+  "ureload.p90rel3":{"category":"master","sounds":["reload_renew/p90rel3"]},
+
+  "ushoot.mp7":{"category":"master","sounds":["shoot_renew/mp7"]},
+  "ushootm.mp7":{"category":"master","sounds":["shoot_renew_m/mp7"]},
+  "ureload.mp7rel1":{"category":"master","sounds":["reload_renew/mp7rel1"]},
+  "ureload.mp7rel2":{"category":"master","sounds":["reload_renew/mp7rel2"]},
+  "ureload.mp7rel3":{"category":"master","sounds":["reload_renew/mp7rel3"]},
+
+  "ushoot.mp5":{"category":"master","sounds":["shoot_renew/mp5"]},
+  "ushootm.mp5":{"category":"master","sounds":["shoot_renew_m/mp5"]},
+  "ureload.mp5rel1":{"category":"master","sounds":["reload_renew/mp5rel1"]},
+  "ureload.mp5rel2":{"category":"master","sounds":["reload_renew/mp5rel2"]},
+  "ureload.mp5rel3":{"category":"master","sounds":["reload_renew/mp5rel3"]},
+  "ureload.mp5rel4":{"category":"master","sounds":["reload_renew/mp5rel4"]},
+
+  "ushoot.vz83":{"category":"master","sounds":["shoot_renew/vz83"]},
+  "ushootm.vz83":{"category":"master","sounds":["shoot_renew_m/vz83"]},
+
+  "ushoot.glock17":{"category":"master","sounds":["shoot_renew/glock17"]},
+  "ushootm.glock17":{"category":"master","sounds":["shoot_renew_m/glock17"]},
+  "ureload.glock17rel1":{"category":"master","sounds":["reload_renew/glock17rel1"]},
+  "ureload.glock17rel2":{"category":"master","sounds":["reload_renew/glock17rel2"]},
+  "ureload.glock17rel3":{"category":"master","sounds":["reload_renew/glock17rel3"]},
+
+  "ushoot.sr1":{"category":"master","sounds":["shoot_renew/sr1"]},
+  "ushootm.sr1":{"category":"master","sounds":["shoot_renew_m/sr1"]},
+  "ushoot.sr2":{"category":"master","sounds":["shoot_renew/sr2"]},
+  "ushootm.sr2":{"category":"master","sounds":["shoot_renew_m/sr2"]},
+  "ushoot.sr3":{"category":"master","sounds":["shoot_renew/sr3"]},
+  "ushootm.sr3":{"category":"master","sounds":["shoot_renew_m/sr3"]},
+  "ushoot.sr4":{"category":"master","sounds":["shoot_renew/sr4"]},
+  "ushootm.sr4":{"category":"master","sounds":["shoot_renew_m/sr4"]},
+  "ushoot.sr5":{"category":"master","sounds":["shoot_renew/sr5"]},
+  "ushootm.sr5":{"category":"master","sounds":["shoot_renew_m/sr5"]},
+  "ushoot.sr6":{"category":"master","sounds":["shoot_renew/sr6"]},
+  "ushootm.sr6":{"category":"master","sounds":["shoot_renew_m/sr6"]},
+  "ushoot.sr7":{"category":"master","sounds":["shoot_renew/sr7"]},
+  "ushootm.sr7":{"category":"master","sounds":["shoot_renew_m/sr7"]},
+  "ureload.srrel1":{"category":"master","sounds":["reload_renew/srrel1_magout"]},
+  "ureload.srrel2_1":{"category":"master","sounds":["reload_renew/srrel2_magin1"]},
+  "ureload.srrel2_2":{"category":"master","sounds":["reload_renew/srrel2_magin2"]},
+  "ureload.srrel3_1":{"category":"master","sounds":["reload_renew/srrel3_boltback1"]},
+  "ureload.srrel3_2":{"category":"master","sounds":["reload_renew/srrel3_boltback2"]},
+  "ureload.srrel4_1":{"category":"master","sounds":["reload_renew/srrel4_boltforward1"]},
+  "ureload.srrel4_2":{"category":"master","sounds":["reload_renew/srrel4_boltforward2"]},
+
+
 
   "gunfx.cartridge01": {
     "category": "master",
