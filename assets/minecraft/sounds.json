@@ -5,6 +5,14 @@
   "ushoot.ak47":{"category":"master","sounds":["shoot_renew/ak47"]},
   "ureload.ak47rel1":{"category":"master","sounds":["reload_renew/ak47rel1"]},
   "ureload.ak47rel2":{"category":"master","sounds":["reload_renew/ak47rel2"]},
+  "ureload.ak47rel3":{"category":"master","sounds":["reload_renew/ak47rel3"]},
+  "ureload.ak47rel4":{"category":"master","sounds":["reload_renew/ak47rel4"]},
+
+  "ushoot.m16":{"category":"master","sounds":["shoot_renew/m16"]},
+  "ureload.m16rel1":{"category":"master","sounds":["reload_renew/m16rel1"]},
+  "ureload.m16rel2":{"category":"master","sounds":["reload_renew/m16rel2"]},
+  "ureload.m16rel3":{"category":"master","sounds":["reload_renew/m16rel3"]},
+  
 
   "gunfx.cartridge01": {
     "category": "master",
