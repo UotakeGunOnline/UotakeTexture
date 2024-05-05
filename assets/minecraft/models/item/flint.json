@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/flint"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data": 1}, "model":"item/other/none"},
+      {"predicate": {"custom_model_data":9999}, "model":"item/unko"}
+  
+  
+    ]
+  }
