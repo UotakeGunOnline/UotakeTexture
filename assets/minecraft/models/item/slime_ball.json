@@ -6,6 +6,12 @@
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model":"item/other/grenade1"},
     {"predicate": {"custom_model_data": 2}, "model":"item/other/grenade2"},
+    {"predicate": {"custom_model_data": 3}, "model":"item/other/grenade3"},
+    {"predicate": {"custom_model_data": 4}, "model":"item/other/grenade4"},
+    {"predicate": {"custom_model_data": 5}, "model":"item/other/grenade5"},
+    {"predicate": {"custom_model_data": 6}, "model":"item/other/grenade6"},
+    {"predicate": {"custom_model_data": 7}, "model":"item/other/grenade7"},
+    {"predicate": {"custom_model_data": 8}, "model":"item/other/grenade8"},
     {"predicate": {"custom_model_data":9999}, "model":"item/unko"}
 
 
