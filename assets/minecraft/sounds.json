@@ -2,6 +2,9 @@
   "ushoot.":{"category":"master","sounds":["shoot_renew/"]},
   "ushootm.":{"category":"master","sounds":["shoot_renew_m/"]},
   "ureload.":{"category":"master","sounds":["reload_renew/"]},
+  "gunfx.": {"category": "master","sounds": ["gunfx/"]},
+  "explosion.": {"category": "master","sounds": ["explosion/"]},
+
 
   "ushoot.ak47":{"category":"master","sounds":["shoot_renew/ak47"]},
   "ushootm.ak47":{"category":"master","sounds":["shoot_renew_m/ak47"]},
@@ -44,6 +47,13 @@
   "ureload.glock17rel2":{"category":"master","sounds":["reload_renew/glock17rel2"]},
   "ureload.glock17rel3":{"category":"master","sounds":["reload_renew/glock17rel3"]},
 
+  "ushoot.m19":{"category":"master","sounds":["shoot_renew/m19"]},
+  "ushootm.m19":{"category":"master","sounds":["shoot_renew_m/m19"]},
+  "ureload.m19rel1":{"category":"master","sounds":["reload_renew/m19rel1"]},
+  "ureload.m19rel2":{"category":"master","sounds":["reload_renew/m19rel2"]},
+  "ureload.m19rel3":{"category":"master","sounds":["reload_renew/m19rel3"]},
+  "ureload.m19rel4":{"category":"master","sounds":["reload_renew/m19rel4"]},
+
   "ushoot.sr1":{"category":"master","sounds":["shoot_renew/sr1"]},
   "ushootm.sr1":{"category":"master","sounds":["shoot_renew_m/sr1"]},
   "ushoot.sr2":{"category":"master","sounds":["shoot_renew/sr2"]},
@@ -66,7 +76,28 @@
   "ureload.srrel4_1":{"category":"master","sounds":["reload_renew/srrel4_boltforward1"]},
   "ureload.srrel4_2":{"category":"master","sounds":["reload_renew/srrel4_boltforward2"]},
 
+  "ushoot.m500":{"category":"master","sounds":["shoot_renew/m500"]},
+  "ushootm.m500":{"category":"master","sounds":["shoot_renew_m/m500"]},
+  "ureload.m500rel":{"category":"master","sounds":["reload_renew/m500rel1","reload_renew/m500rel2","reload_renew/m500rel3","reload_renew/m500rel4"]},
+  "ureload.m500pump":{"category":"master","sounds":["reload_renew/m500pump"]},
 
+  "ushoot.aa12":{"category":"master","sounds":["shoot_renew/aa12"]},
+  "ushootm.aa12":{"category":"master","sounds":["shoot_renew_m/aa12"]},
+  "ureload.aa12rel1":{"category":"master","sounds":["reload_renew/aa12rel1"]},
+  "ureload.aa12rel2":{"category":"master","sounds":["reload_renew/aa12rel2"]},
+  "ureload.aa12rel3":{"category":"master","sounds":["reload_renew/aa12rel3"]},
+
+  "ushoot.rpg7":{"category":"master","sounds":["shoot_renew/rpg7"]},
+  "ushootm.rpg7":{"category":"master","sounds":["shoot_renew_m/rpg7"]},
+  "ureload.rpg7rel1":{"category":"master","sounds":["reload_renew/rpg7rel1"]},
+  "ureload.rpg7rel2":{"category":"master","sounds":["reload_renew/rpg7rel2"]},
+  "ureload.rpg7rel3":{"category":"master","sounds":["reload_renew/rpg7rel3"]},
+
+  "gunfx.shotgun_shell": {"category": "master","sounds": ["gunfx/shotgun_shell1","gunfx/shotgun_shell2","gunfx/shotgun_shell3"]},
+
+
+  "explosion.explode": {"category": "master","sounds": ["explosion/explode1","explosion/explode2","explosion/explode3","explosion/explode4"]},
+  "explosion.frag": {"category": "master","sounds": ["explosion/frag"]},
 
   "gunfx.cartridge01": {
     "category": "master",
