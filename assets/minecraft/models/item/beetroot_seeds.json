@@ -8,10 +8,14 @@
 		{"predicate": {"custom_model_data":0}, "model": "item/beetroot_seeds"},
 		{"predicate": {"custom_model_data":1}, "model": "item/other/other_grenade1"},
 		{"predicate": {"custom_model_data":2}, "model": "item/other/other_grenade2"},
-		{"predicate": {"custom_model_data":3}, "model": "item/other/other_molotov"},
+		{"predicate": {"custom_model_data":3}, "model": "item/other/other_grenade4"},
 		{"predicate": {"custom_model_data":4}, "model": "item/other/other_ammo1"},
 		{"predicate": {"custom_model_data":5}, "model": "item/other/other_ammo2"},
 		{"predicate": {"custom_model_data":6}, "model": "item/other/other_ammo3"},
-		{"predicate": {"custom_model_data":7}, "model": "item/other/other_ammo4"}
+		{"predicate": {"custom_model_data":7}, "model": "item/other/other_ammo4"},
+		{"predicate": {"custom_model_data":8}, "model": "item/other/other_ammo5"},
+		{"predicate": {"custom_model_data":9}, "model": "item/other/other_ammo6"},
+		{"predicate": {"custom_model_data":10}, "model": "item/other/other_ammo7"},
+		{"predicate": {"custom_model_data":11}, "model": "item/other/other_ammo8"}
 	]
 }
