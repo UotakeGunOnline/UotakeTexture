@@ -28,6 +28,8 @@
 		{"predicate": {"custom_model_data":20}, "model": "item/guns/glock17"},
 		{"predicate": {"custom_model_data":21}, "model": "item/guns/dsr1"},
 		{"predicate": {"custom_model_data":22}, "model": "item/guns/m19"},
-		{"predicate": {"custom_model_data":23}, "model": "item/guns/mp7"}
+		{"predicate": {"custom_model_data":23}, "model": "item/guns/mp7"},
+		{"predicate": {"custom_model_data":24}, "model": "item/guns/vss"},
+		{"predicate": {"custom_model_data":25}, "model": "item/guns/saiga12"}
 	]
 }
