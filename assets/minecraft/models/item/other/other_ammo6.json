@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"particle": "item/other/ammo5",
-		"layer0": "item/other/ammo5"
+		"particle": "item/other/ammo6",
+		"layer0": "item/other/ammo6"
 	},
 	"display": {
 		"thirdperson_righthand": {
